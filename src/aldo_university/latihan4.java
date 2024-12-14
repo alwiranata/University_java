@@ -1,7 +1,7 @@
 package aldo_university;
 import javax.swing.JOptionPane;
 public class latihan4 {
-     public static void main(String[] args) {
+     public static void main(String[] args) { 
      //input angka pertama
      String input1 = JOptionPane.showInputDialog("Masukkan angka pertama: ");
      double angka1 = Double.parseDouble(input1);
